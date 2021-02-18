@@ -11,6 +11,12 @@
 <body>
     <h1>Hallo PHP</h1>
     <p>Is it Samba?</p>
+    <ul>
+        <li>Setyono</li>
+        <li>Mutiarani</li>
+        <li>Gustio Nusamba</li>
+        <li>Hatmaja Narotama</li>
+    </ul>
 </body>
 
 </html>
